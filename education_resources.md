@@ -17,3 +17,9 @@
 [Sage Data](https://www.libraries.rutgers.edu/databases/data-planet) and [Sage Research Methods](https://www.libraries.rutgers.edu/databases/sage-research-methods)
 
 [NJDOE Data](https://www.nj.gov/education/doedata/) for New Jersey data, including [School Performance Reports](https://rc.doe.state.nj.us/) - other states will have similar information, if not always as extensive
+
+## Other resources (help with data tools, analysis)
+
+[Graduate Specialists](https://libguides.rutgers.edu/graduatespecialist)
+
+[Data guide](https://libguides.rutgers.edu/data)
