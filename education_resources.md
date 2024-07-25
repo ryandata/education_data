@@ -12,7 +12,7 @@
 
 [ICPSR](https://icpsr.umich.edu) largest social science data archive in the world, including [thematic collections](https://www.icpsr.umich.edu/web/pages/ICPSR/icpsr.html)
 
-[ICPSR Restricted Data](https://www.icpsr.umich.edu/web/pages/ICPSR/access/restricted/
+[ICPSR Restricted Data](https://www.icpsr.umich.edu/web/pages/ICPSR/access/restricted/)
 
 [Sage Data](https://www.libraries.rutgers.edu/databases/data-planet) and [Sage Research Methods](https://www.libraries.rutgers.edu/databases/sage-research-methods)
 
