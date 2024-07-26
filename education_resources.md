@@ -2,7 +2,7 @@
 
 [Sage Data](https://www.libraries.rutgers.edu/databases/data-planet) and [Sage Research Methods](https://www.libraries.rutgers.edu/databases/sage-research-methods)
 
-[Census](https://data.census.gov) standard source for demographics, alternatively [Social Explorer]() for a map-centric presentation that is more browsable
+[Census](https://data.census.gov) standard source for demographics, alternatively [Social Explorer](https://www.libraries.rutgers.edu/databases/socialexplorer) for a map-centric presentation that is more browsable
 
 [IPUMS](https://ipums.org) harmonized microdata across Census years, for US and International data
 
